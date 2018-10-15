@@ -1,0 +1,7 @@
+C:\GitHub\SCMPOC\SCMPOC\obj\Debug\SCMPOC.csprojAssemblyReference.cache
+C:\GitHub\SCMPOC\SCMPOC\obj\Debug\SCMPOC.csproj.CoreCompileInputs.cache
+C:\GitHub\SCMPOC\SCMPOC\bin\Debug\SCMPOC.exe.config
+C:\GitHub\SCMPOC\SCMPOC\bin\Debug\SCMPOC.exe
+C:\GitHub\SCMPOC\SCMPOC\bin\Debug\SCMPOC.pdb
+C:\GitHub\SCMPOC\SCMPOC\obj\Debug\SCMPOC.exe
+C:\GitHub\SCMPOC\SCMPOC\obj\Debug\SCMPOC.pdb
